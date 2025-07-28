@@ -1,4 +1,4 @@
-# 9.0-Secrets-Project
+# Secrets-Project
 
 A Node.js web application with Session-Based Authentication that allows users to authenticate and submit secrets anonymously. This project uses Express, Passport.js, and PostgreSQL for authentication and data storage.
 
